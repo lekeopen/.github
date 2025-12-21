@@ -1,0 +1,18 @@
+name: Update News
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时运行
+  workflow_dispatch: # 手动运行
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lekeopen.com/rss.xml"  # 去掉了反引号和多余空格
+          max_post_count: 5
+          template: "- [$title]($url)"
+          readme_path: "profile/README.md" # 请确认您的 README 确实在这个目录下
