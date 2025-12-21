@@ -12,7 +12,10 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://lekeopen.com/rss.xml"
+          # 暂时换成 TechCrunch 的 RSS，测试连通性
+          feed_list: "https://techcrunch.com/feed/"
           max_post_count: 5
           template: "- [$title]($url)"
           readme_path: "profile/README.md"
+          # 加上 User-Agent 伪装，防止被反爬
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
