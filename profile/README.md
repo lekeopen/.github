@@ -14,7 +14,7 @@
 
 ## 📰 最新动态
 
-<!-- BLOG-POST-LIST:START -->- [Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/)- [‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was](https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/)- [OpenAI allows users to directly adjust ChatGPT’s enthusiasm level](https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/)- [New York Governor Kathy Hochul signs RAISE Act to regulate AI safety](https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/)- [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [自动发布流程全链路测试](https://lekeopen.com/news/2025-12-19-automation-test)- [官网品牌统一与 SEO 优化完成，正式发布 v1.0](https://lekeopen.com/news/2025-12-19-brand-seo-optimization)- [小乐 AI 智能体项目阶段性说明](https://lekeopen.com/news/2025-12-18-xiaole-stage-update)- [乐教库正在重构中](https://lekeopen.com/news/lejiaoku-refactor)- [官网重构完成，进入 AI 驱动的新阶段](https://lekeopen.com/news/site-refactor-2025)<!-- BLOG-POST-LIST:END -->
 
 ---
 
