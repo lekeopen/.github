@@ -16,7 +16,7 @@ jobs:
           # 假设您的仓库名是 lekee-official-site，主分支是 main
           feed_list: "https://raw.githubusercontent.com/lekeopen/lekee-official-site/main/public/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url)"
+          template: "$newline- [$title]($url)"
           readme_path: "profile/README.md"
           # 依然保留 User-Agent，以防万一
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
