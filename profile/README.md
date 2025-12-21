@@ -14,7 +14,7 @@
 ## 📰 最新动态
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-19] [自动发布流程全链路测试](https://lekeopen.com/news/2025-12-19-automation-test)
+- [2025-12-21] [🎯 自动化发布系统 v6.0：全平台打通](https://lekeopen.com/news/2025-12-21-automation-v6-celebration)
 - [2025-12-19] [官网品牌统一与 SEO 优化完成，正式发布 v1.0](https://lekeopen.com/news/2025-12-19-brand-seo-optimization)
 - [2025-12-18] [小乐 AI 智能体项目阶段性说明](https://lekeopen.com/news/2025-12-18-xiaole-stage-update)
 - [2025-12-18] [乐教库正在重构中](https://lekeopen.com/news/lejiaoku-refactor)
