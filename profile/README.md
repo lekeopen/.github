@@ -8,7 +8,7 @@
 ## 🚀 核心项目
 
 - [**lekee-official-site**](https://github.com/lekeopen/lekee-official-site): 乐可开源官方网站 (React + Vite + SSG)
-- *(此处可列出其他项目)*
+- [**小乐AI**](https://github.com/rockts/xiaole-ai):基于 FastAPI + DeepSeek + PostgreSQL 的多轮对话智能助手,支持上下文记忆、会话管理、数据持久化、用户行为分析。
 
 ---
 
