@@ -1,8 +1,8 @@
 name: Update News
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' # 每小时运行
+  workflow_dispatch: # 手动运行
 
 jobs:
   update-readme-with-blog:
@@ -12,10 +12,11 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # 换回您的 RSS
-          feed_list: "https://lekeopen.com/rss.xml"
+          # 使用 GitHub Raw 地址，绕过域名防火墙拦截
+          # 假设您的仓库名是 lekee-official-site，主分支是 main
+          feed_list: "https://raw.githubusercontent.com/lekeopen/lekee-official-site/main/public/rss.xml"
           max_post_count: 5
           template: "- [$title]($url)"
           readme_path: "profile/README.md"
-          # 保留这个伪装！这才是通过 403 的关键！
+          # 依然保留 User-Agent，以防万一
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
