@@ -15,11 +15,11 @@
 ## 📰 最新动态
 
 <!-- BLOG-POST-LIST:START -->
-- [自动发布流程全链路测试](https://lekeopen.com/news/2025-12-19-automation-test)
-- [官网品牌统一与 SEO 优化完成，正式发布 v1.0](https://lekeopen.com/news/2025-12-19-brand-seo-optimization)
-- [小乐 AI 智能体项目阶段性说明](https://lekeopen.com/news/2025-12-18-xiaole-stage-update)
-- [乐教库正在重构中](https://lekeopen.com/news/lejiaoku-refactor)
-- [官网重构完成，进入 AI 驱动的新阶段](https://lekeopen.com/news/site-refactor-2025)<!-- BLOG-POST-LIST:END -->
+- [2025-12-19] [自动发布流程全链路测试](https://lekeopen.com/news/2025-12-19-automation-test)
+- [2025-12-19] [官网品牌统一与 SEO 优化完成，正式发布 v1.0](https://lekeopen.com/news/2025-12-19-brand-seo-optimization)
+- [2025-12-18] [小乐 AI 智能体项目阶段性说明](https://lekeopen.com/news/2025-12-18-xiaole-stage-update)
+- [2025-12-18] [乐教库正在重构中](https://lekeopen.com/news/lejiaoku-refactor)
+- [2025-12-18] [官网重构完成，进入 AI 驱动的新阶段](https://lekeopen.com/news/site-refactor-2025)<!-- BLOG-POST-LIST:END -->
 
 ---
 
