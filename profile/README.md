@@ -9,7 +9,7 @@
 
 - [**lekee-official-site**](https://github.com/lekeopen/lekee-official-site): 乐可开源官方网站 (React + Vite + SSG)
 - [**小乐AI**](https://github.com/rockts/xiaole-ai): 一个有记忆的AI助手（FastAPI + DeepSeek + PostgreSQL）
-- [**乐教库**](https://github.com/rockts/lejiaoku-vue): 乐教库是一款面向K12教育场景的教学资源分享平台
+- [**乐教库**](https://github.com/lekeopen/lejiaoku-web): 乐教库是一款面向K12教育场景的教学资源分享平台
 ---
 
 ## 📰 最新动态
