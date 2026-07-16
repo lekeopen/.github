@@ -15,11 +15,11 @@
 ## 📰 最新动态
 
 <!-- BLOG-POST-LIST:START -->
+- [2026-07-16] [高源外个人技术博客正式上线](https://lekeopen.com/news/2026-07-16-free-e-gaoyuanwai)
 - [2026-06-27] [GeoGenius 上线：用 AI 和动态演示帮助学生看懂几何](https://lekeopen.com/news/2026-06-27-geogenius-launch)
 - [2026-03-19] [OpenClaw 接入实战：AI 智能体驱动团队协作](https://lekeopen.com/news/2026-03-19-openclaw-adoption)
 - [2025-12-31] [2026新年贺词：感谢有你，一起向未来](https://lekeopen.com/news/2026-01-01-new-year-greeting)
-- [2025-12-30] [乐教库正式上线：开启教育资源数字化新篇章](https://lekeopen.com/news/2025-12-30-lejiaoku-official-launch)
-- [2025-12-19] [官网品牌统一与 SEO 优化完成，正式发布 v1.0](https://lekeopen.com/news/2025-12-19-brand-seo-optimization)<!-- BLOG-POST-LIST:END -->
+- [2025-12-30] [乐教库正式上线：开启教育资源数字化新篇章](https://lekeopen.com/news/2025-12-30-lejiaoku-official-launch)<!-- BLOG-POST-LIST:END -->
 
 ---
 
