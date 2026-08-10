@@ -23,4 +23,4 @@
 
 ---
 
-🌍 [官网](https://lekeopen.com) · 💼 [LinkedIn](https://www.linkedin.com/company/天水乐可信息技术有限公司/) · 📧 info@lekee.cc
+🌍 [官网](https://lekeopen.com) · 📘 [Facebook](https://www.facebook.com/lekeopen/) · 𝕏 [X](https://x.com/lekeopen) · 📧 contact@lekeopen.com
