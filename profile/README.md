@@ -10,6 +10,22 @@
 - [**lekee-official-site**](https://github.com/lekeopen/lekee-official-site): 乐可开源官方网站 (React + Vite + SSG)
 - [**小乐AI**](https://github.com/rockts/xiaole-ai): 一个有记忆的AI助手（FastAPI + DeepSeek + PostgreSQL）
 - [**乐教库**](https://github.com/lekeopen/lejiaoku-web): 乐教库是一款面向K12教育场景的教学资源分享平台
+
+---
+
+## 🧩 Codex Skills
+
+[**Codex Skills**](https://github.com/lekeopen/codex-skills) 是乐可开源维护的可复用 Codex 技能集合，可按需独立安装。
+
+- [品牌系统构建](https://github.com/lekeopen/codex-skills/tree/main/brand-system-builder)：建立、升级与治理品牌系统
+- [社交内容分发](https://github.com/lekeopen/codex-skills/tree/main/social-distribution-setup)：搭建并排查多平台内容分发流程
+- [微信 WebView 字体适配](https://github.com/lekeopen/codex-skills/tree/main/wechat-webview-font-sizing)：解决微信内置浏览器字体缩放问题
+- [图片转 A4 PDF](https://github.com/lekeopen/codex-skills/tree/main/image-pages-to-a4-pdf)：将扫描图片整理为经过验证的 A4 PDF
+- [开源工具评估](https://github.com/lekeopen/codex-skills/tree/main/evaluating-open-source-tools)：基于实测证据判断开源工具是否值得采用
+- [短视频剪辑](https://github.com/lekeopen/codex-skills/tree/main/gaoyuanwai-short-video-editing)：按统一规范剪辑和验收竖屏短视频
+
+[查看全部技能与安装说明 →](https://github.com/lekeopen/codex-skills/blob/main/README.zh-CN.md)
+
 ---
 
 ## 📰 最新动态
