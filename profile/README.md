@@ -31,11 +31,11 @@
 ## 📰 最新动态
 
 <!-- BLOG-POST-LIST:START -->
+- [2026-08-12] [归个类 v1.5.0 产品页上线](https://lekeopen.com/news/2026-08-12-guigelei-product)
+- [2026-08-12] [乐可点名 v1.1.0 产品页上线](https://lekeopen.com/news/2026-08-12-leke-picker-product)
 - [2026-07-21] [乐可观澜项目经营决策驾驶舱上线](https://lekeopen.com/news/2026-07-21-leke-insight)
 - [2026-07-18] [边大夫口腔官网完成静态优先改版](https://lekeopen.com/news/2026-07-18-boral-wang)
-- [2026-07-16] [高源外个人技术博客正式上线](https://lekeopen.com/news/2026-07-16-free-e-gaoyuanwai)
-- [2026-06-27] [GeoGenius 上线：用 AI 和动态演示帮助学生看懂几何](https://lekeopen.com/news/2026-06-27-geogenius-launch)
-- [2026-03-19] [OpenClaw 接入实战：AI 智能体驱动团队协作](https://lekeopen.com/news/2026-03-19-openclaw-adoption)<!-- BLOG-POST-LIST:END -->
+- [2026-07-16] [高源外个人技术博客正式上线](https://lekeopen.com/news/2026-07-16-free-e-gaoyuanwai)<!-- BLOG-POST-LIST:END -->
 
 ---
 
