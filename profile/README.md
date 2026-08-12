@@ -33,7 +33,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [2026-08-12] [归个类 v1.5.0 产品页上线](https://lekeopen.com/news/2026-08-12-guigelei-product)
 - [2026-08-12] [乐可点名 v1.1.0 产品页上线](https://lekeopen.com/news/2026-08-12-leke-picker-product)
-- [2026-07-21] [乐可观澜项目经营决策驾驶舱上线](https://lekeopen.com/news/2026-07-21-leke-insight)
-<!-- BLOG-POST-LIST:END -->
+- [2026-07-21] [乐可观澜项目经营决策驾驶舱上线](https://lekeopen.com/news/2026-07-21-leke-insight)<!-- BLOG-POST-LIST:END -->
 
 [官网](https://lekeopen.com) · [产品与项目](https://lekeopen.com/products/) · [技术动态](https://lekeopen.com/news/) · [Facebook](https://www.facebook.com/lekeopen/) · [X](https://x.com/lekeopen) · [contact@lekeopen.com](mailto:contact@lekeopen.com)
