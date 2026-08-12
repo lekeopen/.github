@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://raw.githubusercontent.com/lekeopen/lekee-official-site/main/public/rss.xml"
-          max_post_count: 5
+          max_post_count: 3
           # 加上日期格式配置
           date_format: "yyyy-mm-dd"
           # 修改模板，把日期放在前面

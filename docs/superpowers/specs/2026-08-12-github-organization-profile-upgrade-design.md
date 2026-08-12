@@ -16,7 +16,7 @@
 
 ### 本次包含
 
-- 重写公开组织主页 `.github/profile/README.md`；
+- 重写公开组织主页 `profile/README.md`；
 - 将“核心产品”和“精选开源项目”分开表达；
 - 修复或移除公众无法访问的私有仓库链接；
 - 精简 Codex Skills 展示；
@@ -227,7 +227,7 @@ Public 视角按以下顺序置顶四个公开仓库：
 
 ## 10. 发布与回滚
 
-1. 在独立分支修改 `.github/profile/README.md` 和必要文档；
+1. 在独立分支修改 `profile/README.md` 和必要文档；
 2. 本地检查 Markdown、链接清单和自动标记；
 3. 通过 PR 审查后合并 `.github` 仓库；
 4. 仓库元信息逐仓库更新并记录变更前值；

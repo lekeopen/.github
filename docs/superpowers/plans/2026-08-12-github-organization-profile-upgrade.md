@@ -4,7 +4,7 @@
 
 **Goal:** 把 `github.com/lekeopen` 升级为专业、克制、对开发者友好的公司技术名片，并准确展示核心产品、精选开源项目和开放边界。
 
-**Architecture:** `.github/profile/README.md` 是公开主页内容的唯一源码；仓库 description、homepage、topics 和组织置顶仓库是 GitHub 平台元数据。README 通过独立分支与 PR 交付，平台元数据逐仓库更新并保留旧值，最终以 Public 视角统一验收。
+**Architecture:** `profile/README.md` 是公开主页内容的唯一源码；仓库 description、homepage、topics 和组织置顶仓库是 GitHub 平台元数据。README 通过独立分支与 PR 交付，平台元数据逐仓库更新并保留旧值，最终以 Public 视角统一验收。
 
 **Tech Stack:** GitHub Flavored Markdown、Git、GitHub CLI、GitHub 组织主页设置
 
